@@ -23,3 +23,10 @@ I am a researcher in the field of machine learning with a focus on computer visi
 I have a background in mathematic and informatic, having graduated from Ha Noi University of Science and Technology (HUST). Since then, I have been deeply engaged in the field of artificial intelligence, constantly expanding my knowledge through work experience.
 
 My professional experience began at [VNPT-AI](https://icenter.ai/vi), where I developed computer vision-based algorithm optimization for VNPT Smart Vision, such as warning detection, action object identification . After then, I worked on documentation extraction project for at [Eastgate-SoftWare](https://eastgate-software.com/).
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tuongtranngoc)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuongtranngoc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
