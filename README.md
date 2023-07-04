@@ -18,7 +18,7 @@
 </div>
 
 ## :octocat: Biography
-I am a researcher in the field of machine learning with a focus on computer vision. My research interests include the foundations of algorithms and their real-world applications.
+I am an AI Engineer in the field of machine learning with a focus on computer vision. My research interests include the foundations of algorithms and their real-world applications.
 
 I have a background in mathematic and informatic, having graduated from Ha Noi University of Science and Technology (HUST). Since then, I have been deeply engaged in the field of artificial intelligence, constantly expanding my knowledge through work experience.
 
