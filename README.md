@@ -23,9 +23,9 @@ I am an AI Engineer in the field of machine learning with a focus on computer vi
 + **Optical Character Recognition (OCR)**
 + **Very-rich Document Understanding & Layout Analysis**
 
-I have a background in mathematic and informatic, having graduated from Ha Noi University of Science and Technology (HUST). Since then, I have been deeply engaged in the field of artificial intelligence, constantly expanding my knowledge through work experience.
+I have a background in mathematics and informatics, having graduated from Ha Noi University of Science and Technology (HUST). Since then, I have been deeply engaged in artificial intelligence, constantly expanding my knowledge through work experience.
 
-My professional experience began at [VNPT-AI](https://icenter.ai/vi), where I developed computer vision-based algorithm optimization for VNPT Smart Vision, such as warning detection, action object identification . After then, I worked on documentation extraction project for at [Eastgate-SoftWare](https://eastgate-software.com/).
+My professional experience began at [VNPT-AI](https://icenter.ai/vi), where I developed computer vision-based algorithm optimization for VNPT Smart Vision, such as warning detection, and action object identification. After then, I worked on Document Understanding and Layout Analysis at [Eastgate-SoftWare](https://eastgate-software.com/).
 
 ### :fire: My Stats :
 
