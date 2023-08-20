@@ -19,7 +19,7 @@
 
 ## :octocat: Biography
 I am an AI Engineer in the field of machine learning with a focus on computer vision. My research interests include the foundations of algorithms and their real-world applications.
-+ **Object Detection/Segmentation**
++ **Object Detection/Segmentation/Pose Estimation**
 + **Optical Character Recognition (OCR)**
 + **Very-rich Document Understanding & Layout Analysis**
 
