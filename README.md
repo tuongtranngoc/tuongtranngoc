@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/ngoctuongwindy/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.kaggle.com/ngoctuongwindy">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
 </div>
