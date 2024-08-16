@@ -18,11 +18,6 @@
 </div>
 
 ## :octocat: Biography
-I am an AI Engineer in machine learning, focusing on computer vision, the intersection of computer vision and natural language processing algorithms, and their real-world applications.
-+ **Object Detection/Segmentation/Pose Estimation**
-+ **Optical Character Recognition (OCR)**
-+ **Document Intelligence**
+I am an AI Research Engineer and working at Eastgate-Software. Prior to that, I have had the fortune of working at [VNPT-AI Center](https://icenter.ai/vi) and [iCOMM Media & Tech, Jsc](https://icomm.vn/).
 
 I have a background in mathematics and informatics, having graduated from Ha Noi University of Science and Technology (HUST). Since then, I have been deeply engaged in artificial intelligence, constantly expanding my knowledge through work experience.
-
-My professional experience began at [VNPT-AI](https://icenter.ai/vi), where I developed computer vision-based algorithm optimization for VNPT Smart Vision, such as warning detection, and action object identification. After that, I worked on Document Intelligence problems at [Eastgate-SoftWare](https://eastgate-software.com/).
